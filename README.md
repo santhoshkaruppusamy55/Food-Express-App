@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohitshimpi737/foodExpress.git
+   git clone https://github.com/santhoshkaruppusamy55/foodExpress.git
    ```
 2. Navigate to the project directory:
    ```bash
